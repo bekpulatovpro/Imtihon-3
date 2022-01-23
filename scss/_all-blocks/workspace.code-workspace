@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "..\\..\\..\\Icon"
+		}
+	],
+	"settings": {
+		"liveSassCompile.settings.formats": [
+			{
+				"format": "compressed",
+				"extensionName": ".min.css",
+				"savePath": "/css"
+			}
+		],
+		"liveServer.settings.multiRootWorkspaceName": "Imtihon-3"
+	}
+}
